@@ -14,8 +14,8 @@ Antes de começar, certifique-se de ter os seguintes itens instalados em sua má
 Clone o repositório para sua máquina local:
 
 ```sh
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/lbgrandolpho/octos-test
+cd octos-test
 ```
 
 ### Passo 2: Configurar o Docker
