@@ -86,7 +86,7 @@ Alternativamente, você pode utilizar argumentos de paginação, filtragem e ord
 - `limit`: O número máximo de usuários a ser retornado. (`default: 10`)
 - `offset`: O número de usuários a serem ignorados antes de começar a retornar os resultados. (`default: 0`)
 - `camera_brand`: Filtra as câmeras que serão retornadas para os usuários pela marca fornecida. (`default: nil`)
-- `order_by_camera_brand`: Ordena as câmeras dos usuários alfabeticamente por suas marcas.
+- `order_by_camera_brand`: Ordena as câmeras dos usuários alfabeticamente por suas marcas. (`default: false`)
 
 ```graphql
 query {
